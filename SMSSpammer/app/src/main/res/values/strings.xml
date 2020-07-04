@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SMS Spammer</string>
+    <string name="app_tittle">SMS Spammer</string>
+    <string name="et_number">Victim number</string>
+    <string name="et_msj">Message</string>
+    <string name="sms">SMS sended:</string>
+    <string name="sms_sended"></string>
+    <string name="times">Times</string>
+</resources>
